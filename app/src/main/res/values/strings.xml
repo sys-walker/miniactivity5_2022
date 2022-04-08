@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiniActivity5</string>
+    <string name="mobile_data">dades mòbils</string>
+    <string name="wifi">wifi</string>
+    <string name="unknown">[tipus deconegut]</string>
+    <string name="toast_message">Conectat a la xarxa via %1$s</string>
+    <string name="toast_error">No s\'esta conectat a la xarxa</string>
+    <string name="settings">Configuració</string>
+    <string name="refresh">Actualitzar</string>
+
+</resources>
